@@ -30,4 +30,6 @@ My expertise encompasses economic analysis, machine learning, and full-stack dev
 - **2nd Place in the Cryptocurrency Datathon (Sep/2020)** – FGV & Ripple
   - Utilized ML strategies to predict cryptocurrency trading and applied NLP techniques for decision-making. Also there is a [Youtube video](https://youtu.be/_aCNF3jHSss?t=671) with my presentation of the project available in this [repository](https://github.com/kojabawa/pirates).
 
+----
+
 Feel free to connect with me and explore my repositories for more projects and contributions, at my [LinkedIn profile](https://www.linkedin.com/in/rkovashikawa/).
