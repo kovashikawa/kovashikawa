@@ -1,16 +1,33 @@
-### Hi there 👋
+# about me
 
-<!--
-**kovashikawa/kovashikawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm Rafael!
 
-Here are some ideas to get you started:
+I have a strong background in economics and data science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have a solid educational foundation from [FGV – EPGE](https://epge.fgv.br/en) and extensive experience using various software tools and programming languages for data analysis.
+
+My expertise encompasses economic analysis, machine learning, and full-stack development.
+
+## skills
+
+- **software:**
+  - Python, MongoDB, SQL, JavaScript, CSS, HTML, R, Tableau, Apache Airflow, Microsoft Office
+- **language:**
+  - Fluent in English and Portuguese (native)
+  - Advanced Spanish
+
+## outreach
+
+- **2023: Machine Learning using TensorFlow** with Professor Artur Andre Almeida de Macedo Oliveira (USP)
+- **2020: Quantitative Finances**, using Statistical Analysis of Financial Data coursework, in R, with Professor Rodrigo Targino (FGV)
+- **2019: Fundamentals of Marketing Analytics using Machine Learning** with Professor Fabio Caldieraro (FGV)
+- **2018: Python project with DBSCAN** to analyze the impact of the Federal Intervention in Rio de Janeiro's security, using public data, with Professor Jorge Poco (FGV)
+
+## awards
+
+- **Big Data Hackathon (Sep/2021)** – XP Inc. & Microsoft Azure
+  - Delivered a group work of a big data (14GB+) application using Azure.
+- **2nd Place in the Cryptocurrency Datathon (Sep/2020)** – FGV & Ripple
+  - Utilized ML strategies to predict cryptocurrency trading and applied NLP techniques for decision-making. Also there is a [Youtube video](https://youtu.be/_aCNF3jHSss?t=671) with my presentation of the project available in this [repository](https://github.com/kojabawa/pirates).
+
+Feel free to connect with me and explore my repositories for more projects and contributions, at my [LinkedIn profile](https://www.linkedin.com/in/rkovashikawa/).
