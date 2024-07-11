@@ -4,7 +4,7 @@ Hello, I'm Rafael!
 
 I have a strong background in economics and data science.
 
-I have a solid educational foundation from [FGV – EPGE](https://epge.fgv.br/en) and extensive experience using various software tools and programming languages for data analysis.
+I am currently pursuing a MicroMasters in Statistics and Data Science from MIT, further enhancing my expertise in the field. I have a solid educational foundation from [FGV – EPGE](https://epge.fgv.br/en) and extensive experience using various software tools and programming languages for data analysis.
 
 My expertise encompasses economic analysis, machine learning, and full-stack development.
 
