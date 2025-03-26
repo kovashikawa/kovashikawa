@@ -18,10 +18,10 @@ My expertise encompasses economic analysis, machine learning, and full-stack dev
 
 ## outreach
 
-- **2023: Machine Learning using TensorFlow** with Professor Artur Andre Almeida de Macedo Oliveira (USP)
-- **2020: Quantitative Finances**, using Statistical Analysis of Financial Data coursework, in R, with Professor Rodrigo Targino (FGV)
-- **2019: Fundamentals of Marketing Analytics using Machine Learning** with Professor Fabio Caldieraro (FGV)
-- **2018: Python project with DBSCAN** to analyze the impact of the Federal Intervention in Rio de Janeiro's security, using public data, with Professor Jorge Poco (FGV)
+- **2023: Machine Learning using TensorFlow** @ USP
+- **2020: Quantitative Finances**, using Statistical Analysis of Financial Data coursework, in R @ FGV
+- **2019: Fundamentals of Marketing Analytics using Machine Learning** @ FGV
+- **2018: Python project with DBSCAN** to analyze the impact of the Federal Intervention in Rio de Janeiro's security, using public data @ FGV
 
 ## awards
 
