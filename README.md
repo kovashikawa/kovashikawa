@@ -1,60 +1,37 @@
-# about me
+# Hi there, I'm Rafael Kovashikawa 👋
 
-I'm Rafael, a Data Scientist and AI Engineer specializing in scalable data systems, forecasting, NLP, and applied machine learning. I design end-to-end data and AI solutions, from high-performance pipelines to production-ready LLM and RAG applications.
-
-My experience spans hedge-fund macro research, real-time data platforms, credit risk systems, and evaluation frameworks for time-series forecasting models. I am completing the MIT Statistics and Data Science MicroMasters and previously studied Economics at FGV-EPGE.
+I’m an economist-turned-data-professional with a soft spot for macro signals, efficient pipelines, and making cool things with LLMs. Always curious about *tech, data, and dogs*.
 
 I work across the full stack of data science and engineering: modeling, infrastructure, APIs, MLOps, LLM systems, and quantitative analysis.
 
----
+### What I do best
+* **Data Science & Modeling** · Develop and productionize time-series (ARIMA, VaR), tree-based, and econometric models for CPI forecasts, credit risk, and trading signals.
+* **Data Engineering** · Build and orchestrate ETL on Airflow + Kubernetes.
+* **ML in Production** · Deploy credit-risk and anomaly-detection models (FastAPI, Docker).
+* **LLMs & AI Agents** · RAG pipelines, LangChain + vector DBs, MCP Servers, Context Engineering.
+* **Marketing AI & Analytics** · Architected end-to-end multi-platform integrations (TikTok, Google, Meta Ads) for complex AI-driven data intelligence.
 
-# skills
+### Tech Stack
+* **Programming:** Python, R, MongoDB, SQL, JavaScript, TypeScript, MCP (Model Context Protocol), Pydantic AI
+* **Data Viz & Analysis:** Plotly, Matplotlib, Tableau, Excel, Bloomberg
+* **Cloud & Automation:** AWS, Redis, Apache Airflow, GitHub Actions, GCP
+* **ML & AI:** scikit-learn, XGBoost, LightGBM, Econometrics, LLMs, NLP, MCP Servers, Context Engineering
 
-### core technical stack
+### Experience
+* **[Fuse](https://fuse.is/)** — AI Engineer (AI Data Strategy for Marketers)
+* **[GYRA+](https://gyramais.com.br/)** — Senior Data Scientist
+* **[JGP Asset Management](https://www.jgp.com.br/en/home/)** — Macro Data Scientist
+* **[Órama](https://orama.com.br/)** — Data Analytics
+* **[IBM](https://www.ibm.com/)** — Data Operations
 
-* Python, R, SQL, MongoDB
-* Airflow, AWS, GCP, Kubernetes, FastAPI, Polars
-* Machine Learning, NLP, LLMs, RAG architectures, Econometrics
-* Tableau, Plotly, Matplotlib
-* GitHub (CI/CD), Linux, Docker
+### Education
+* **MIT** — Data Science & Statistics MicroMasters (Expected 2026)
+* **Fundação Getúlio Vargas (EPGE)** — B.Sc. Economics (2017–2021)
 
-### languages
-
-* English
-* Portuguese
-* Spanish
-
----
-
-# selected experience and projects
-
-* Quantitative macro modeling, CPI forecasting systems, and NLP pipelines for monetary policy at a global hedge fund (5+ Billion USD AUM)
-* Large-scale ETL/ELT redesign, reducing infrastructure cost by half
-* High-performance simulation API for credit risk using FastAPI and Polars
-* Production RAG system for legal document interpretation using LangChain
-* Evaluation frameworks and simulation environments for advanced time-series forecasting models (including LLM-based forecasters)
-
-See public projects in this profile, including micro-services, LLM tools, and ML pipelines.
-
----
-
-# outreach and training
-
-* 2023: Machine Learning using TensorFlow (USP)
-* 2020: Quantitative Finance with Statistical Analysis of Financial Data in R (FGV)
-* 2019: Fundamentals of Marketing Analytics with Machine Learning (FGV)
-* 2018: Python project using PCA, K-means, DBSCAN for security analysis (FGV)
+### Awards
+* 🏆 **Google Cloud AI Hackathon (Dec 2025)** – Winner (MedAnnotator) | [Code](https://github.com/ODSCGoogleHackhathon/googol)
+* 🏆 **Big Data Hackathon (Sep 2021)** – XP Inc. & Microsoft Azure
+* 🏆 **Cryptocurrency Datathon (Sep 2020)** – FGV & Ripple
 
 ---
-
-# awards
-
-* Big Data Hackathon (XP Inc. & Microsoft Azure, 2021): built a big data pipeline and analysis workflow on Azure using >14GB of raw data
-* Cryptocurrency Datathon (FGV & Ripple, 2020): second place for ML-driven crypto trading and NLP-based market signal extraction
-  Video presentation: [https://youtu.be/_aCNF3jHSss?t=671](https://youtu.be/_aCNF3jHSss?t=671)
-  Repository: [https://github.com/kojabawa/pirates](https://github.com/kojabawa/pirates)
-
----
-
-Let's keep in touch! visit my LinkedIn profile:
-[https://www.linkedin.com/in/rkovashikawa/](https://www.linkedin.com/in/rkovashikawa/)
+📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/rkovashikawa/) | [Portfolio](https://kovashikawa.github.io)
