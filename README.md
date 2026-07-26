@@ -18,14 +18,14 @@ I work across the full stack of data science and engineering: modeling, infrastr
 * **ML & AI:** scikit-learn, XGBoost, LightGBM, Econometrics, LLMs, NLP, MCP Servers, Context Engineering
 
 ### Experience
-* **[Fuse](https://fuse.is/)** — AI Engineer (AI Data Strategy for Marketers)
-* **[GYRA+](https://gyramais.com.br/)** — Senior Data Scientist
+* **[Fuse](https://fuse.is/)** — Data Scientist & AI Engineer (AI Data Strategy for Marketers)
+* **[GYRA+](https://gyramais.com.br/)** — Head of Data
 * **[JGP Asset Management](https://www.jgp.com.br/en/home/)** — Macro Data Scientist
 * **[Órama](https://orama.com.br/)** — Data Analytics
 * **[IBM](https://www.ibm.com/)** — Data Operations
 
 ### Education
-* **MIT** — Data Science & Statistics MicroMasters (Expected 2026)
+* **MIT** — Data Science & Statistics MicroMasters (Completed 2026)
 * **Fundação Getúlio Vargas (EPGE)** — B.Sc. Economics (2017–2021)
 
 ### Awards
