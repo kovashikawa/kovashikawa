@@ -1,37 +1,19 @@
-# Hi there, I'm Rafael Kovashikawa 👋
+# Rafael Kovashikawa
 
-I’m an economist-turned-data-professional with a soft spot for macro signals, efficient pipelines, and making cool things with LLMs. Always curious about *tech, data, and dogs*.
+I build LLM systems and the checks that keep their answers honest. At Fuse I work on agents and MCP servers for marketing analytics, and I built Emet, a pipeline that verifies what a model says against the data it was given. Before that I did macro and credit data science in Brazilian finance. I trained as an economist at FGV and live in Washington, DC.
 
-I work across the full stack of data science and engineering: modeling, infrastructure, APIs, MLOps, LLM systems, and quantitative analysis.
+## Selected work
 
-### What I do best
-* **Data Science & Modeling** · Develop and productionize time-series (ARIMA, VaR), tree-based, and econometric models for CPI forecasts, credit risk, and trading signals.
-* **Data Engineering** · Build and orchestrate ETL on Airflow + Kubernetes.
-* **ML in Production** · Deploy credit-risk and anomaly-detection models (FastAPI, Docker).
-* **LLMs & AI Agents** · RAG pipelines, LangChain + vector DBs, MCP Servers, Context Engineering.
-* **Marketing AI & Analytics** · Architected end-to-end multi-platform integrations (TikTok, Google, Meta Ads) for complex AI-driven data intelligence.
+- [bls_mcp](https://github.com/kovashikawa/bls_mcp): an MCP server for the Bureau of Labor Statistics, so an LLM can query labor data directly.
+- [correlation-models](https://github.com/kovashikawa/correlation-models): dependence measures beyond Pearson correlation, including distance correlation, Chatterjee xi, HSIC, KSG mutual information and tail dependence.
+- [hermes-skills](https://github.com/kovashikawa/hermes-skills): open skills developed from working projects with Hermes Agent.
+- [MedAnnotator](https://github.com/ODSCGoogleHackhathon/googol): multimodal medical annotation system, winner of the Google Cloud AI Hackathon (Dec 2025).
 
-### Tech Stack
-* **Programming:** Python, R, MongoDB, SQL, JavaScript, TypeScript, MCP (Model Context Protocol), Pydantic AI
-* **Data Viz & Analysis:** Plotly, Matplotlib, Tableau, Excel, Bloomberg
-* **Cloud & Automation:** AWS, Redis, Apache Airflow, GitHub Actions, GCP
-* **ML & AI:** scikit-learn, XGBoost, LightGBM, Econometrics, LLMs, NLP, MCP Servers, Context Engineering
+## Writing
 
-### Experience
-* **[Fuse](https://fuse.is/)** — Data Scientist & AI Engineer (AI Data Strategy for Marketers)
-* **[GYRA+](https://gyramais.com.br/)** — Head of Data
-* **[JGP Asset Management](https://www.jgp.com.br/en/home/)** — Macro Data Scientist
-* **[Órama](https://orama.com.br/)** — Data Analytics
-* **[IBM](https://www.ibm.com/)** — Data Operations
+- [When AI Lies About Your Search Data](https://kovashikawa.com/ai/when-ai-lies-about-your-search-data/): how Emet checks AI answers about search data.
 
-### Education
-* **MIT** — Data Science & Statistics MicroMasters (Completed 2026)
-* **Fundação Getúlio Vargas (EPGE)** — B.Sc. Economics (2017–2021)
+## More
 
-### Awards
-* 🏆 **Google Cloud AI Hackathon (Dec 2025)** – Winner (MedAnnotator) | [Code](https://github.com/ODSCGoogleHackhathon/googol)
-* 🏆 **Big Data Hackathon (Sep 2021)** – XP Inc. & Microsoft Azure
-* 🏆 **Cryptocurrency Datathon (Sep 2020)** – FGV & Ripple
-
----
-📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/rkovashikawa/) | [Portfolio](https://kovashikawa.github.io)
+- [About and experience](https://kovashikawa.com/about/)
+- [LinkedIn](https://www.linkedin.com/in/rkovashikawa/)
